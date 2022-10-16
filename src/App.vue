@@ -59,6 +59,7 @@ const items = ref([
           >
         </div>
       </div>
+      <div v-else>売り切れです</div>
     </template>
   </main>
 </template>
